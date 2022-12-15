@@ -19,5 +19,7 @@ https://www.canva.com/design/DAFUh-sPbB4/TWgX_s5BQo4_xl7a7Ari9Q/edit?utm_content
 
 ## 2. Run TestSimulator.py file and open the simulator (autonomous mode) at the same time.
 
-
+![hahaha](https://user-images.githubusercontent.com/116493016/207764412-87845b4f-a4de-4c88-a7be-ccffe9459de1.jpg)
 ## 3. Wait for them to connect and enjoy.
+
+![kakaakak](https://user-images.githubusercontent.com/116493016/207764418-acfd6bcb-1a17-4dcc-8f1d-c95783a48b71.jpg)
