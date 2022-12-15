@@ -11,7 +11,7 @@ https://www.canva.com/design/DAFUh-sPbB4/TWgX_s5BQo4_xl7a7Ari9Q/edit?utm_content
 ![sss](https://user-images.githubusercontent.com/116493016/207763122-ae3c4c2e-a3b4-44fa-987a-a7d1c62f9221.jpg)
 
 
-#How to start AI self-driving car simulator
-## 1.Clone this project to your computer.
-## 2.Run TestSimulator.py file and open the simulator at the same time.
-## 3.Wait for them to connect and enjoy.
+# How to start AI self-driving car simulator
+## 1. Clone this project to your computer.
+## 2. Run TestSimulator.py file and open the simulator at the same time.
+## 3. Wait for them to connect and enjoy.
