@@ -25,9 +25,9 @@ https://www.canva.com/design/DAFUh-sPbB4/TWgX_s5BQo4_xl7a7Ari9Q/edit?utm_content
 ![kakaakak](https://user-images.githubusercontent.com/116493016/207764418-acfd6bcb-1a17-4dcc-8f1d-c95783a48b71.jpg)
 # In case you are inrested into AI, here is our model architecture
 ![map1 h5](https://user-images.githubusercontent.com/116493016/207765402-b20f0e3a-a1bb-46da-89c5-c8b6eebfe70c.png)\
-<p align="center">
-  <imgsrc="https://user-images.githubusercontent.com/116493016/207765402-b20f0e3a-a1bb-46da-89c5-c8b6eebfe70c.png">
-</p>\
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/116493016/207765402-b20f0e3a-a1bb-46da-89c5-c8b6eebfe70c.png)">
+</p>
 ## Description
 For the **CNN** part, we have 5 layers of convolution \
 Then we have a flatten layer to flatten the feature maps into input vector for the ANN.\
