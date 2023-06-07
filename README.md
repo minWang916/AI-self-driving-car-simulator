@@ -7,7 +7,7 @@ https://github.com/udacity/self-driving-car-sim
 
 
 
-![sss](https://user-images.githubusercontent.com/116493016/207763122-ae3c4c2e-a3b4-44fa-987a-a7d1c62f9221.jpg)
+
 
 
 # How to start AI self-driving car simulator
