@@ -31,7 +31,5 @@ Then we have a flatten layer to flatten the feature maps into input vector for t
 For the **ANN** part, we have 4 layers of dense
 
 
-:fire::fire::fire:***Fun fact about CNN***:fire::fire::fire: \
-while the convolutional layers in CNN is mandatory, the pooling layers are optional. Their existence is only for reducing image size, which is unnecessary because the main point of CNN is to extract important features, which is what convolutional layers are already doing.
-![pic](https://user-images.githubusercontent.com/116493016/207767430-4a23868d-f36d-43a4-bdc2-ae43bb806eb0.jpg)
+
 
